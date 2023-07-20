@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro+",
+      "price": "8900.99"
+    },
+    {
+      "id": 3,
+      "name": "Geladeira",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Lapis",
+      "price": 0.1
+    },
+    {
+      "id": 5,
+      "name": "Notebook Dell",
+      "price": 4850
+    },
+    {
+      "name": "Teste",
+      "price": "1",
+      "id": 6
+    },
+    {
+      "name": "Teste2",
+      "price": "1,56",
+      "id": 7
+    },
+    {
+      "name": "teste3",
+      "price": "1256",
+      "id": 8
+    },
+    {
+      "name": "Lo",
+      "price": "1.89",
+      "id": 9
+    },
+    {
+      "name": "Teste",
+      "price": "45",
+      "id": 10
+    },
+    {
+      "name": "Teste4",
+      "price": "5",
+      "id": 11
+    },
+    {
+      "name": "Pronto",
+      "price": "5",
+      "id": 12
+    },
+    {
+      "name": "e",
+      "price": "78",
+      "id": 13
+    },
+    {
+      "name": "w",
+      "price": "4",
+      "id": 14
+    },
+    {
+      "name": "Oi",
+      "price": "4",
+      "id": 15
+    },
+    {
+      "name": "Cl",
+      "price": "6",
+      "id": 16
+    }
+  ]
+}
